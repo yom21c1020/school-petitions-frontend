@@ -1,1 +1,1 @@
-export const apiURL = 'http://localhost:4568';
+export const apiURL = 'https://petitions-backend.kafu.moe';
